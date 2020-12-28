@@ -1,1 +1,1 @@
-# netrunner-19.08
+# netrunner-next
